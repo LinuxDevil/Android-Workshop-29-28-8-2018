@@ -1,0 +1,86 @@
+{
+  "project_info": {
+    "project_number": "888799278925",
+    "firebase_url": "https://fir-chatapp-b2e62.firebaseio.com",
+    "project_id": "fir-chatapp-b2e62",
+    "storage_bucket": "fir-chatapp-b2e62.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:888799278925:android:e9761dbf40579db7",
+        "android_client_info": {
+          "package_name": "com.alimohammaad.firebasechatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "888799278925-j7q7ikgbdecvfrn0i74s77836ebk9k71.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCC1fqLr68qdD_NuZWzRXbDPRPrKFL5fxE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:888799278925:android:d087061650dedc9d",
+        "android_client_info": {
+          "package_name": "com.alimohammad.freelancer.firebasechatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "888799278925-ogd85ilpr8ohsc497hbs9rmpdpkspcgb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.alimohammad.freelancer.firebasechatapp",
+            "certificate_hash": "99a503afb92c80e2c3d6193fbe8c7a6765b8ba2c"
+          }
+        },
+        {
+          "client_id": "888799278925-j7q7ikgbdecvfrn0i74s77836ebk9k71.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCC1fqLr68qdD_NuZWzRXbDPRPrKFL5fxE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "888799278925-j7q7ikgbdecvfrn0i74s77836ebk9k71.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
